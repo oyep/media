@@ -1,10 +1,14 @@
-# media
+# Media
 Protocols for making microorganism food.
 
-YPD MEDIA (liquid)
+## Protocols
 
-YPD PLATES
+* [YPD Media]():
 
-DROPOUT MEDIA (liquid)
+* [YPD Plates]():
 
-DROPOUT MEDIA PLATES
+* [Drop Out Media]():
+
+* [Drop Out PLates]():
+
+
